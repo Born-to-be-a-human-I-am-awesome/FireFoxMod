@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "firefox:block/fire_bricks"
+  },
+  "/**/": "定义方块贴图用的，它定义了方块所使用贴图的路径。文件名与方块名一致"
+}

@@ -1,0 +1,8 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "nbt": "{\"Tags\":[\"re8portals_blocked\"]}"
+  },
+  "": "指定：带有什么NBT的生物进不去传送门"
+}

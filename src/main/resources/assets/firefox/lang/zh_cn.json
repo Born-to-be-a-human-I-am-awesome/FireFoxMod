@@ -1,0 +1,48 @@
+{
+  "Language": "简体中文",
+
+
+  "TypeA": "创造模式分页签",
+  "itemGroup.firefox": "火狐装饰",
+
+
+  "TypeB": "方块",
+  "block.firefox.fire_bricks": "烈焰砖",
+  "block.firefox.firing_bricks": "烧制砖块",
+  "block.firefox.transparent_forbidden_room_wall": "透明禁地室墙",
+
+
+  "TypeC": "物品",
+  "item.firefox.firefox_bullet": "火狐子弹",
+  "item.firefox.firefox_launcher": "火狐发射器",
+  "item.firefox.portable_fire_charge": "便捷式火焰弹",
+  "item.firefox.flatten_the_starry_sky": "踏平星空",
+  "item.firefox.dirt_ball": "土球",
+
+
+  "TypeD": "进度",
+  "advancements.overworld.root.title": "火狐模组",
+  "advancements.overworld.root.description": "§a小心那只带火的狐狸！",
+
+
+  "TypeE": "食物",
+  "item.firefox.iron_chestplate_food": "铁质盔甲",
+
+
+  "TypeF": "消息",
+  "disable.the.item": "§4警告：该物品已被禁用，请联系你的管理员核实后重试",
+
+  "message.firefox.dirt_ball_king.heath>66__<120.hit.player": "土球王：李在赣神魔？",
+  "message.firefox.dirt_ball_king.heath<=66__>=44.hit.player": "土球王：woc！！别！！",
+  "message.firefox.dirt_ball_king.les10.hit.player": "土球王：我们下次见。",
+
+
+  "TypeG": "实体",
+  "entity.firefox.dirt_ball_king": "土球王",
+
+
+  "TypeH": "描述",
+  "item.firefox:flatten_the_starry_sky.desc": "§c§l警告: 对地形破坏性严重，请谨慎使用\n\n§a§l使用后，将清空使用者周围100x100\n范围内除基岩外的所有方块，没有任何\n掉落物且无法撤销",
+  "item.firefox:flatten_the_starry_sky.desc_1": "§c§l警告: 对地形破坏性严重，请谨慎使用\n\n§a§l使用后，将清空使用者周围100x100\n范围内除基岩外的所有方块，没有任何\n掉落物且无法撤销\n\n§4§l已禁用"
+
+}

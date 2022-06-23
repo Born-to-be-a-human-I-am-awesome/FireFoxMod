@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "firefox:item/portable_fire_charge"
+  },
+  "/**/": "便捷式火焰弹：物品的贴图路径定义"
+}

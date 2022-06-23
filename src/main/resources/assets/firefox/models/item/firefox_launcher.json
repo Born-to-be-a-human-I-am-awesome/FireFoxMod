@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "firefox:item/firefox_launcher"
+  },
+  "/**/": "火狐发射器：物品的贴图路径定义"
+}

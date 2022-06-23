@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+  "minecraft:moving_piston"
+],
+  "": "这个为传送判定，不用修改。改了反而出问题，固定写法"
+}

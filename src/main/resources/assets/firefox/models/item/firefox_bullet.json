@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "firefox:item/firefox_bullet"
+  },
+  "/**/": "火狐子弹：物品的贴图路径定义"
+}

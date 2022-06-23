@@ -1,0 +1,4 @@
+{
+  "parent": "firefox:block/transparent_forbidden_room_wall",
+  "/**/": "透明禁地室墙：定义ItemBlock的贴图路径，和Block的贴图一个道理。文件命名与方块名一致"
+}

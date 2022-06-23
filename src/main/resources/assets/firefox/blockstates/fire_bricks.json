@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": {
+      "model": "firefox:block/fire_bricks",
+      "/**/": "这个是定义方块模型用的，没有这个就会导致放出来的Block没有贴图，文件命名需要与方块名一致。"
+    }
+  }
+}

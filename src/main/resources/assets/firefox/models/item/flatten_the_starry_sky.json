@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "firefox:item/flatten_the_starry_sky"
+  },
+  "/**/": "踏平星空：物品的贴图路径定义"
+}

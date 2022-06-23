@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "firefox:item/iron_chestplate_food"
+  },
+  "/**/": "铁质盔甲：物品的贴图路径定义"
+}

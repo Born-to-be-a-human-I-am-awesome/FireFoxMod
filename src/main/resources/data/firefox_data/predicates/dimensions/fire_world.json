@@ -1,0 +1,7 @@
+{
+  "condition": "minecraft:location_check",
+  "predicate": {
+  "dimension": "firefox:fire_world"
+},
+  "": "命名：你的modid:你模组中的维度  断言：对应传送门的维度"
+}

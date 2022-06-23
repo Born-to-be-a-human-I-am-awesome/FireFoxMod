@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "firefox:fire_bricks",
+    "firefox:firing_bricks"
+  ],
+  "/**/": "定义方块可否被挖掘，在这里定义的方块都是可以被挖掘的，会受到代码中定义硬度的影响。否则挖的巨慢。"
+}

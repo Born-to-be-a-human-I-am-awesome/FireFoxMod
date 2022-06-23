@@ -1,0 +1,12 @@
+{
+  "flick": {
+    "category": "entity",
+    "subtitle": "entity.dimi.hitsong2.sub",
+    "sounds": [
+      {
+        "name": "firefox:entity/dimi/hitsong2",
+        "stream": true
+      }
+    ]
+  }
+}

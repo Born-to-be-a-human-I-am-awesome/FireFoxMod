@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+  "minecraft:air",
+  "minecraft:cave_air",
+  "minecraft:void_air"
+],
+  "": "判定传送门中的合法空气方块，包括普通空气、洞穴空气和虚空空气"
+}

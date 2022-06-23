@@ -1,0 +1,48 @@
+{
+  "Language": "English",
+
+
+  "TypeA": "ItemGroup",
+  "itemGroup.firefox": "FireFox Decorate",
+
+
+  "TypeB": "Blocks",
+  "block.firefox.fire_bricks": "Lavabrick",
+  "block.firefox.firing_bricks": "FiringBricks",
+  "block.firefox.transparent_forbidden_room_wall": "Transparent Forbidden Room Wall",
+
+
+  "TypeC": "Items",
+  "item.firefox.firefox_bullet": "Firefox Bullet",
+  "item.firefox.firefox_launcher": "Firefox Launcher",
+  "item.firefox.portable_fire_charge": "Portable Fire Charge",
+  "item.firefox.flatten_the_starry_sky": "Flatten The Starry Sky",
+  "item.firefox.dirt_ball": "Dirt Ball",
+
+
+  "TypeD": "Advancements",
+  "advancements.overworld.root.title": "Firefox Mod",
+  "advancements.overworld.root.description": "§aBe careful of the fox with fire!",
+
+
+  "TypeE": "Food",
+  "item.firefox.iron_chestplate_food": "Iron Chest",
+
+
+  "TypeF": "Message",
+  "disable.the.item": "§4Warning: This item has been disabled, please contact your administrator to verify and try again",
+
+  "message.firefox.dirt_ball_king.heath>66__<120.hit.player": "Dirt Ball King: What are you doing??",
+  "message.firefox.dirt_ball_king.heath<=66__>=44.hit.player": "Dirt Ball King: What the f**k！！ No！！",
+  "message.firefox.dirt_ball_king.les10.hit.player": "Dirt Ball King: See you next time~~",
+
+
+  "TypeG": "Entity",
+  "entity.firefox.dirt_ball_king": "Dirt Ball King",
+
+
+  "TypeH": "Describe",
+  "item.firefox:flatten_the_starry_sky.desc": "§c§l警告: 对地形破坏性严重，请谨慎使用\n\n§a§l使用后，将清空使用者周围100x100\n范围内除基岩外的所有方块，没有任何\n掉落物且无法撤销",
+  "item.firefox:flatten_the_starry_sky.desc_1": "§c§l警告: 对地形破坏性严重，请谨慎使用\n\n§a§l使用后，将清空使用者周围100x100\n范围内除基岩外的所有方块，没有任何\n掉落物且无法撤销\n\n§4§lHas been disabled"
+
+}

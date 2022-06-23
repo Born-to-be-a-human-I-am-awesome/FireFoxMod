@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "firefox:item/example_item"
+  },
+  "/**/": "测试物品：物品的贴图路径定义"
+}

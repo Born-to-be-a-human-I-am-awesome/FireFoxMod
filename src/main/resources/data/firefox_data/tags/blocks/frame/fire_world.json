@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+  "minecraft:diamond_block"
+],
+  "": "什么方块可以搭传送门(命名格式为你的modid:方块名称，原版为minecraft:方块名称)"
+}
