@@ -86,7 +86,7 @@ public class VirusGeneratorBlock extends BaseEntityBlock {
         if (!pLevel.isClientSide()) {
             BlockEntity entity = pLevel.getBlockEntity(pPos);
             if(entity instanceof VirusGeneratorBlockEntity) {
-                NetworkHooks.openGui(((ServerPlayer)pPlayer), (VirusGeneratorBlockEntity)entity, pPos);
+                NetworkHooks.openGui(((ServerPlayer)pPlayer), (VirusGeneratorBlockEntity)entity, pPos); //打开方块的GUI
             } else {
                 throw new IllegalStateException("Our Container provider is missing!");
             }

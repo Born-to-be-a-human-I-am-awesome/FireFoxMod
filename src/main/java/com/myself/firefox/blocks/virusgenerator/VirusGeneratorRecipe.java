@@ -81,7 +81,7 @@ public class VirusGeneratorRecipe implements Recipe<SimpleContainer> {
         //Json配方指定方法
         @Override
         public VirusGeneratorRecipe fromJson(ResourceLocation id, JsonObject json) {
-            ItemStack output = ShapedRecipe.itemStackFromJson(GsonHelper.getAsJsonObject(json, "output"));
+            ItemStack output = ShapedRecipe.itemStackFromJson(GsonHelper.getAsJsonObject(json, "output")); //获取Json字段
 
             JsonArray ingredients = GsonHelper.getAsJsonArray(json, "ingredients");
             //这里说明一共有几个原料，我们需要2个，就写2，需要3个，就改成3

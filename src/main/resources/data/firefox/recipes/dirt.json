@@ -1,0 +1,14 @@
+{
+  "type":"firefox:virus_generator",
+  "ingredients":[
+    {
+      "item":"minecraft:dirt"
+    },
+    {
+      "item":"minecraft:dirt"
+    }
+  ],
+  "output":{
+    "item":"minecraft:dirt"
+  }
+}
