@@ -3,7 +3,7 @@
 
 
   "TypeA": "创造模式分页签",
-  "itemGroup.firefox": "火狐装饰",
+  "itemGroup.firefox": "火狐模组",
 
 
   "TypeB": "方块",
@@ -18,11 +18,18 @@
   "item.firefox.portable_fire_charge": "便捷式火焰弹",
   "item.firefox.flatten_the_starry_sky": "踏平星空",
   "item.firefox.dirt_ball": "土球",
+  "item.firefox.the_cubicle": "斗室",
 
 
   "TypeD": "进度",
-  "advancements.overworld.root.title": "火狐模组",
-  "advancements.overworld.root.description": "§a小心那只带火的狐狸！",
+  "overworld.root.title": "火狐模组",
+  "overworld.root.description": "§a小心那只带火的狐狸！",
+
+  "overworld.mirroring_cubicle.title": "镜像合成",
+  "overworld.mirroring_cubicle.description": "获得斗室，它的合成表与它的贴图是相反的！",
+
+  "overworld.base_material.title": "基础材料",
+  "overworld.base_material.description": "获得火焰弹",
 
 
   "TypeE": "食物",

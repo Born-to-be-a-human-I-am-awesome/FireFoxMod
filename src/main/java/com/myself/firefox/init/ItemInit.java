@@ -93,6 +93,11 @@ public class ItemInit {
             () -> new Item(new Item.Properties().tab(ModMain.TUTORIAL_TAB)));
 
 
+    //斗室
+    public static final RegistryObject<Item> THE_CUBICLE = register("the_cubicle",
+            () -> new Item(new Item.Properties().tab(ModMain.TUTORIAL_TAB)));
+
+
 
 
     /**

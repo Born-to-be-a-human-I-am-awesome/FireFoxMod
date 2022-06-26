@@ -3,7 +3,7 @@
 
 
   "TypeA": "ItemGroup",
-  "itemGroup.firefox": "FireFox Decorate",
+  "itemGroup.firefox": "FireFox Mod",
 
 
   "TypeB": "Blocks",
@@ -18,11 +18,18 @@
   "item.firefox.portable_fire_charge": "Portable Fire Charge",
   "item.firefox.flatten_the_starry_sky": "Flatten The Starry Sky",
   "item.firefox.dirt_ball": "Dirt Ball",
+  "item.firefox.the_cubicle": "The Cubicle",
 
 
   "TypeD": "Advancements",
-  "advancements.overworld.root.title": "Firefox Mod",
-  "advancements.overworld.root.description": "§aBe careful of the fox with fire!",
+  "overworld.root.title": "Firefox Mod",
+  "overworld.root.description": "§aBe careful of the fox with fire!",
+
+  "overworld.mirroring_cubicle.title": "Mirroring Crafting",
+  "overworld.mirroring_cubicle.description": "Get a cubicle whose Crafting sheet is the opposite",
+
+  "overworld.base_material.title": "Base Material",
+  "overworld.base_material.description": "Get a fire charge",
 
 
   "TypeE": "Food",
@@ -42,7 +49,7 @@
 
 
   "TypeH": "Describe",
-  "item.firefox:flatten_the_starry_sky.desc": "§c§l警告: 对地形破坏性严重，请谨慎使用\n\n§a§l使用后，将清空使用者周围100x100\n范围内除基岩外的所有方块，没有任何\n掉落物且无法撤销",
-  "item.firefox:flatten_the_starry_sky.desc_1": "§c§l警告: 对地形破坏性严重，请谨慎使用\n\n§a§l使用后，将清空使用者周围100x100\n范围内除基岩外的所有方块，没有任何\n掉落物且无法撤销\n\n§4§lHas been disabled"
+  "item.firefox:flatten_the_starry_sky.desc": "§c§lWarning: Severe damage to terrain, please use with caution\n\n§a§l1After use, 100x100 will be emptied around the user\nAll blocks in range except bedrock, none\nDrop and cannot be undone",
+  "item.firefox:flatten_the_starry_sky.desc_1": "§c§lWarning: Severe damage to terrain, please use with caution\n\n§a§lAfter use, 100x100 will be emptied around the user\nAll blocks in range except bedrock, none\nDrop and cannot be undone\n\n§4§lHas been disabled"
 
 }
