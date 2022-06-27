@@ -21,7 +21,9 @@
       "conditions": {
         "items": [
           {
-            "item": "firefox:the_cubicle",
+            "items": [
+              "firefox:the_cubicle"
+            ],
             "count": {
               "min": 1,
               "max": 999999
