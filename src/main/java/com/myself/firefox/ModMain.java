@@ -96,6 +96,9 @@ public class ModMain
         //添加这个 注册GUI配方类
         RecipeInit.register(bus);
 
+        //添加效果类的注册事件
+        EffectInit.EFFECTS.register(bus);
+
 
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);

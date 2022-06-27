@@ -17,6 +17,12 @@ public class PotionInit {
     public static final RegistryObject<Potion> BLINDNESS_POTION = POTIONS.register("blindness_potion",
             () -> new Potion(new MobEffectInstance(MobEffects.BLINDNESS.delegate.get(), 200, 0)));
 
+    //深湖药水
+    public static final RegistryObject<Potion> DEEP_LAKE_POTION = POTIONS.register("deep_lake_potion",
+            () -> new Potion(new MobEffectInstance(EffectInit.WATER_INTOXICATION.get(), 1234, 0)));
+
+
+
     //public static final RegistryObject<Potion> DEADLY_POTION = POTIONS.register("deadly_potion",
     //	    () -> new Potion(new MobEffectInstance(EffectInit.DEADLY.get(), 200, 0)));
 
